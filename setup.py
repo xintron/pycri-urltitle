@@ -16,7 +16,7 @@ setup(
     author_email='carlsson.marcus@gmail.com',
     description='Title-resolver for URLs',
     long_description=__doc__,
-    py_modules=['pycri_urltitle'],
+    packages=['pycri_urltitle'],
     provides='pycri_urltitle',
     zip_safe=False,
     include_package_data=True,
